@@ -343,6 +343,7 @@ And thanks to the developers qnblackcat, PoomSmart & other  allowing me to expan
 | **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.8 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
 | **YTHoldForSpeed** | [joshuaseltzer](https://github.com/joshuaseltzer) | 1.2.3 | [✔︎](https://github.com/joshuaseltzer/YTHoldForSpeed) |
 | **YTweaks** | [fosterbarnes](https://github.com/fosterbarnes) | 0.4.0 | [✔︎](https://github.com/fosterbarnes/YTweaks) |
+| **Gonerino** | [castdrian](https://github.com/castdrian) | 1.3.2 | [✔︎](https://github.com/castdrian/Gonerino) |
 | **LowContrastMode** | [arichornlover](https://github.com/arichornlover) | 1.8.0 | [✔︎](https://github.com/arichornlover/YTLowContrastMode) |
 
 </details>
